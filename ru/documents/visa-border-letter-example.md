@@ -31,7 +31,7 @@ Name: [Имя Фамилия приглашающего]
 Phone: [Телефон]
 Email: [Email]
 
-If needed, I can also provide: (1) my invitation letter, (2) return ticket, (3) medical insurance, and (4) proof of sufficient funds for my stay.
+If needed, I can also provide: (1) proof of sponsorship (bewijs van garantstelling en/of particuliere logiesverstrekking), (2) return ticket, (3) medical insurance, and (4) proof of sufficient funds for my stay.
 
 Sincerely,
 [Имя Фамилия]
@@ -44,7 +44,7 @@ Sincerely,
 * Если вы нормально общаетесь на английском, абзац `I do not speak English or Dutch` можно убрать.
 * Нумерация в последней строке нужна только для удобства: пограничник может просто сказать `one`, `two`, `three` или показать номер нужного документа.
 * Если поездку оплачиваете вы сами, имеет смысл оставить фразу `proof of sufficient funds for my stay`.
-* Если поездку полностью оплачивает приглашающая сторона, можно заменить последнюю строку на `If needed, I can also provide my invitation letter, return ticket and medical insurance.`
+* Если поездку полностью оплачивает приглашающая сторона, можно заменить последнюю строку на `If needed, I can also provide proof of sponsorship (bewijs van garantstelling en/of particuliere logiesverstrekking), return ticket and medical insurance.`
 
 ## Словарь родства для шаблона
 
